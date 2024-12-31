@@ -1,0 +1,16 @@
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-complete-tag
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+ms-ceintl.vscode-language-pack-zh-hant
+ms-vscode.vscode-typescript-next
+vincaslt.highlight-matching-tag
+vscode-icons-team.vscode-icons
+vue.volar
+xabikos.javascriptsnippets
+zignd.html-css-class-completion

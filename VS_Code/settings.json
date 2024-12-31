@@ -1,0 +1,16 @@
+{
+  "git.openRepositoryInParentFolders": "never",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.colorTheme": "Monokai",
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "files.autoSave": "onWindowChange",
+  "editor.fontFamily": "Fira Code",
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "scm.compactFolders": false,
+  "workbench.editor.enablePreview": false
+}
