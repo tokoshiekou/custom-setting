@@ -1,0 +1,21 @@
+# Ignore artifacts:
+node_modules
+build
+coverage
+dist
+
+# Ignore mini file
+*.min.js
+
+# Ignore esbuild module file
+*.bundle.js
+*.map
+
+# Ignore esbuild public file
+public/assets/
+
+# Ignore esbuild typescript file
+out/
+
+# Ignore media file
+**/*.svg
